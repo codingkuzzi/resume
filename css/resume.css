@@ -1,0 +1,33 @@
+.contact{
+  font-size: 15px;
+  font-family: cursive;
+  text-align: center;
+
+}
+
+.summary{
+  font-size: 20px;
+  text-align: left;
+  max-width: inherit;
+  font-style: normal;
+}
+
+.name{
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.work{
+  color: navy;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: left;
+  max-width: inherit;
+  font-style: normal;
+}
+
+.good{
+  font-weight: bold;
+  font-style: italic;
+
+}
